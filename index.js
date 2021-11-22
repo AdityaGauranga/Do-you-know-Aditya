@@ -62,7 +62,7 @@ var questions = [{
   question: "My most frequent YouTube channel that I listen songs from would be? ",
   answer: "eve"
 }, {
-  question: "Tell me my birthday <(￣︶￣)> Ex: 12 sep ",
+  question: "Tell me my birthday <(￣︶￣)> \nAnswer it in this manner--> date_month Ex: 12 sep \n",
   answer: "30 july"
 }];
 
