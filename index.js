@@ -5,7 +5,7 @@ var score = 0;
 var userName = readlineSync.question("Heya! What's your name? ")
 
 console.log("Good to meet you " + userName + "!")
-var idAns = readlineSync.question("Do you know Invictus? ")
+var idAns = readlineSync.question("Do you know Āditya? ")
 
 if (idAns === "yes"){
   console.log("Great! Let's see how much you know me eh (￣▽￣)ノ")
